@@ -1,4 +1,4 @@
 RedPill
 =======
 
-RedPill exercise solution
+Solution to the RedPill Exercise
